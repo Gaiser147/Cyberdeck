@@ -34,11 +34,9 @@ Building a cybedeck with used parts an
 - Storage (< 1TB)
 - Webcam...
 - Tools:
-  - Esp32
   - Meshtastic
   - Sattelite
   - Radio
-  - frequency analyzer
  
   ## Parts
   You can find a complete parts list here:
