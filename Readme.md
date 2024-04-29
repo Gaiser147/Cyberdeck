@@ -50,4 +50,4 @@ Building a cybedeck with used parts an
 
 <a href="https://stackoverflow.com/"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck3.jpg" width="500" />
 
-<a href="https://stackoverflow.com/"><img src="https://hackaday.com/wp-content/uploads/2024/04/cyber-feature.jpeg?w=800" width="500" />
+<a href="https://stackoverflow.com/"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck4.webp" width="500" />
