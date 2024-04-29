@@ -13,6 +13,7 @@ Building a cybedeck with used parts an
 ### Wifi
 - Alfa network adapter
 - Wifi Router (GL-SFT1200)
+- Network Switch
 
 ### Bluethoot
 - [...]
