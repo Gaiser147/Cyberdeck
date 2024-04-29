@@ -42,8 +42,6 @@ Building a cybedeck with used parts an
   ## Parts
   You can find a complete parts list here:
   https://www.meinonlinewunschzettel.de/?wz=1084e1db8d5e5ee
-
-avocado
  
  ## Examples
 <img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck1.jpg" width="500" />
