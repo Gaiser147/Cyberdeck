@@ -9,7 +9,7 @@ Building a cybedeck with used parts an
 - SBC
 - Zimaboard
 - Zimablade
-
+- Acer Aspire E5-573 (26x38cm)
 ### Wifi
 - Alfa network adapter
 - Wifi Router (GL-SFT1200)
