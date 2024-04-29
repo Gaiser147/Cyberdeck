@@ -1,5 +1,5 @@
 # Cyberdeck
-Building a cybedeck with used parts an
+Building a cybedeck by recycling old and used electronics and merging them to one multi-use computer, that can be upgraded any time, by replacing or adding new parts.
 
 ## Features
 
