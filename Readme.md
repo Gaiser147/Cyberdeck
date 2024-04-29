@@ -44,7 +44,7 @@ Building a cybedeck with used parts an
   https://www.meinonlinewunschzettel.de/?wz=1084e1db8d5e5ee
  
  ## Examples
-<a href="https://stackoverflow.com/"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck1.jpg" width="500" />
+<a href="https://www.reddit.com/r/cyberDeck/s/6L9usMYFCS"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck1.jpg" width="500" />
 
 <a href="https://www.reddit.com/r/cyberDeck/comments/1cdpgp3/arkio_the_m2/?share_id=9lQ9NnfKRrFoQhbNFABEa"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck2.webp" width="500" />
 
