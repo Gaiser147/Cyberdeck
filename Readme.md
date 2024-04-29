@@ -51,3 +51,5 @@ Building a cybedeck with used parts an
 <a href="https://www.reddit.com/r/cyberDeck/s/6L9usMYFCS"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck3.jpg" width="500" />
 
 <a href="https://hackaday.com/2024/04/28/hack-in-style-with-this-fallout-cyberdeck/"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck4.webp" width="500" />
+
+<a href="https://www.reddit.com/r/cyberDeck/s/Ma7UA3hGO7"><img src="https://github.com/Gaiser147/Cyberdeck/blob/main/Pictures/Cyberdeck5.jpg" width="500" />
