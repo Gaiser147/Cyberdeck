@@ -2,7 +2,7 @@
 Building a cybedeck by recycling old and used electronics and merging them to one multi-use computer, that can be upgraded any time, by replacing or adding new parts.
 
 ## Features
-
+Our Cyberdeck should have the same functionality like a normal Laptop, while also having additional features that can be helpful in different environments.
 
 ### Computer
 - Raspberry
