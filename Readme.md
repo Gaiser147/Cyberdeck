@@ -39,6 +39,10 @@ Building a cybedeck with used parts an
   - Sattelite
   - Radio
   - frequency analyzer
+ 
+  ## Parts
+  You can find a complete parts list here:
+  https://www.meinonlinewunschzettel.de/?wz=1084e1db8d5e5ee
 
  
  ## Examples
