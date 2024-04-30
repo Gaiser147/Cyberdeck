@@ -34,11 +34,11 @@ Our Cyberdeck should have the same functionality like a normal Laptop, while als
 - Sprai Paint (Hello Kitty Theme)
 - Storage (< 1TB)
 - Webcam...
-- Tools:
+- Radio:
   - Meshtastic
   - Sattelite
-  - Radio
- 
+- RFID Capabilities 
+- NFC Capabilities 
   ## Parts
   You can find a complete parts list here:
   https://www.meinonlinewunschzettel.de/?wz=1084e1db8d5e5ee
