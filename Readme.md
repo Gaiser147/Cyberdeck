@@ -10,6 +10,7 @@ Our Cyberdeck should have the same functionality like a normal Laptop, while als
 - Zimaboard
 - Zimablade
 - Acer Aspire E5-573 (26x38cm)
+   - 35,5x20cm
 ### Wifi
 - Alfa network adapter
 - Wifi Router (GL-SFT1200)
